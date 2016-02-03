@@ -1,0 +1,23 @@
+{
+  "name": "testing-rxjs",
+  "version": "1.0.0",
+  "description": "Quick demonstration of test RxJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geowa4/testing-rxjs.git"
+  },
+  "keywords": [
+    "unit-testing",
+    "rxjs"
+  ],
+  "author": "George Adams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geowa4/testing-rxjs/issues"
+  },
+  "homepage": "https://github.com/geowa4/testing-rxjs#readme"
+}
